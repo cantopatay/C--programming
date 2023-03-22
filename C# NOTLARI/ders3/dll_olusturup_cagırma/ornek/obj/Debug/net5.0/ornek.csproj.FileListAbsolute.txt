@@ -1,0 +1,12 @@
+C:\Users\Can\Desktop\Ders\2_Sınıf\Nesne_Yönelik_Programlama\ders5\dll_olusturup_cagırma\ornek\bin\Debug\net5.0\ornek.deps.json
+C:\Users\Can\Desktop\Ders\2_Sınıf\Nesne_Yönelik_Programlama\ders5\dll_olusturup_cagırma\ornek\bin\Debug\net5.0\ornek.dll
+C:\Users\Can\Desktop\Ders\2_Sınıf\Nesne_Yönelik_Programlama\ders5\dll_olusturup_cagırma\ornek\bin\Debug\net5.0\ref\ornek.dll
+C:\Users\Can\Desktop\Ders\2_Sınıf\Nesne_Yönelik_Programlama\ders5\dll_olusturup_cagırma\ornek\bin\Debug\net5.0\ornek.pdb
+C:\Users\Can\Desktop\Ders\2_Sınıf\Nesne_Yönelik_Programlama\ders5\dll_olusturup_cagırma\ornek\obj\Debug\net5.0\ornek.csproj.AssemblyReference.cache
+C:\Users\Can\Desktop\Ders\2_Sınıf\Nesne_Yönelik_Programlama\ders5\dll_olusturup_cagırma\ornek\obj\Debug\net5.0\ornek.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Can\Desktop\Ders\2_Sınıf\Nesne_Yönelik_Programlama\ders5\dll_olusturup_cagırma\ornek\obj\Debug\net5.0\ornek.AssemblyInfoInputs.cache
+C:\Users\Can\Desktop\Ders\2_Sınıf\Nesne_Yönelik_Programlama\ders5\dll_olusturup_cagırma\ornek\obj\Debug\net5.0\ornek.AssemblyInfo.cs
+C:\Users\Can\Desktop\Ders\2_Sınıf\Nesne_Yönelik_Programlama\ders5\dll_olusturup_cagırma\ornek\obj\Debug\net5.0\ornek.csproj.CoreCompileInputs.cache
+C:\Users\Can\Desktop\Ders\2_Sınıf\Nesne_Yönelik_Programlama\ders5\dll_olusturup_cagırma\ornek\obj\Debug\net5.0\ornek.dll
+C:\Users\Can\Desktop\Ders\2_Sınıf\Nesne_Yönelik_Programlama\ders5\dll_olusturup_cagırma\ornek\obj\Debug\net5.0\ref\ornek.dll
+C:\Users\Can\Desktop\Ders\2_Sınıf\Nesne_Yönelik_Programlama\ders5\dll_olusturup_cagırma\ornek\obj\Debug\net5.0\ornek.pdb

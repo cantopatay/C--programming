@@ -1,0 +1,16 @@
+C:\Users\windows_7\Desktop\Ders\2_Sınıf\Nesne_Yönelik_Programlama\MerhabaNet\bin\Debug\net5.0\MerhabaNet.exe
+C:\Users\windows_7\Desktop\Ders\2_Sınıf\Nesne_Yönelik_Programlama\MerhabaNet\bin\Debug\net5.0\MerhabaNet.deps.json
+C:\Users\windows_7\Desktop\Ders\2_Sınıf\Nesne_Yönelik_Programlama\MerhabaNet\bin\Debug\net5.0\MerhabaNet.runtimeconfig.json
+C:\Users\windows_7\Desktop\Ders\2_Sınıf\Nesne_Yönelik_Programlama\MerhabaNet\bin\Debug\net5.0\MerhabaNet.runtimeconfig.dev.json
+C:\Users\windows_7\Desktop\Ders\2_Sınıf\Nesne_Yönelik_Programlama\MerhabaNet\bin\Debug\net5.0\MerhabaNet.dll
+C:\Users\windows_7\Desktop\Ders\2_Sınıf\Nesne_Yönelik_Programlama\MerhabaNet\bin\Debug\net5.0\ref\MerhabaNet.dll
+C:\Users\windows_7\Desktop\Ders\2_Sınıf\Nesne_Yönelik_Programlama\MerhabaNet\bin\Debug\net5.0\MerhabaNet.pdb
+C:\Users\windows_7\Desktop\Ders\2_Sınıf\Nesne_Yönelik_Programlama\MerhabaNet\obj\Debug\net5.0\MerhabaNet.csproj.AssemblyReference.cache
+C:\Users\windows_7\Desktop\Ders\2_Sınıf\Nesne_Yönelik_Programlama\MerhabaNet\obj\Debug\net5.0\MerhabaNet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\windows_7\Desktop\Ders\2_Sınıf\Nesne_Yönelik_Programlama\MerhabaNet\obj\Debug\net5.0\MerhabaNet.AssemblyInfoInputs.cache
+C:\Users\windows_7\Desktop\Ders\2_Sınıf\Nesne_Yönelik_Programlama\MerhabaNet\obj\Debug\net5.0\MerhabaNet.AssemblyInfo.cs
+C:\Users\windows_7\Desktop\Ders\2_Sınıf\Nesne_Yönelik_Programlama\MerhabaNet\obj\Debug\net5.0\MerhabaNet.csproj.CoreCompileInputs.cache
+C:\Users\windows_7\Desktop\Ders\2_Sınıf\Nesne_Yönelik_Programlama\MerhabaNet\obj\Debug\net5.0\MerhabaNet.dll
+C:\Users\windows_7\Desktop\Ders\2_Sınıf\Nesne_Yönelik_Programlama\MerhabaNet\obj\Debug\net5.0\ref\MerhabaNet.dll
+C:\Users\windows_7\Desktop\Ders\2_Sınıf\Nesne_Yönelik_Programlama\MerhabaNet\obj\Debug\net5.0\MerhabaNet.pdb
+C:\Users\windows_7\Desktop\Ders\2_Sınıf\Nesne_Yönelik_Programlama\MerhabaNet\obj\Debug\net5.0\MerhabaNet.genruntimeconfig.cache

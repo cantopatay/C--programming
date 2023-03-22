@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+<ItemGroup>
+  <Reference Include="MyAssembly">
+    <HintPath>C:\Users\Can\Desktop\Ders\2_Sınıf\Nesne_Yönelik_Programlama\ders5\dll_olusturup_cagırma\ornek\bin\Debug\net5.0\ornek.dll</HintPath>
+  </Reference>
+</ItemGroup>
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+</Project>

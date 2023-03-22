@@ -1,0 +1,16 @@
+C:\Users\Can\Desktop\Ders\2_Sınıf\Nesne_Yönelik_Programlama\ders5\namespace_kullanımları\namespace2\obj\Debug\net5.0\namespace2.csproj.AssemblyReference.cache
+C:\Users\Can\Desktop\Ders\2_Sınıf\Nesne_Yönelik_Programlama\ders5\namespace_kullanımları\namespace2\obj\Debug\net5.0\namespace2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Can\Desktop\Ders\2_Sınıf\Nesne_Yönelik_Programlama\ders5\namespace_kullanımları\namespace2\obj\Debug\net5.0\namespace2.AssemblyInfoInputs.cache
+C:\Users\Can\Desktop\Ders\2_Sınıf\Nesne_Yönelik_Programlama\ders5\namespace_kullanımları\namespace2\obj\Debug\net5.0\namespace2.AssemblyInfo.cs
+C:\Users\Can\Desktop\Ders\2_Sınıf\Nesne_Yönelik_Programlama\ders5\namespace_kullanımları\namespace2\obj\Debug\net5.0\namespace2.csproj.CoreCompileInputs.cache
+C:\Users\Can\Desktop\Ders\2_Sınıf\Nesne_Yönelik_Programlama\ders5\namespace_kullanımları\namespace2\bin\Debug\net5.0\namespace2.exe
+C:\Users\Can\Desktop\Ders\2_Sınıf\Nesne_Yönelik_Programlama\ders5\namespace_kullanımları\namespace2\bin\Debug\net5.0\namespace2.deps.json
+C:\Users\Can\Desktop\Ders\2_Sınıf\Nesne_Yönelik_Programlama\ders5\namespace_kullanımları\namespace2\bin\Debug\net5.0\namespace2.runtimeconfig.json
+C:\Users\Can\Desktop\Ders\2_Sınıf\Nesne_Yönelik_Programlama\ders5\namespace_kullanımları\namespace2\bin\Debug\net5.0\namespace2.runtimeconfig.dev.json
+C:\Users\Can\Desktop\Ders\2_Sınıf\Nesne_Yönelik_Programlama\ders5\namespace_kullanımları\namespace2\bin\Debug\net5.0\namespace2.dll
+C:\Users\Can\Desktop\Ders\2_Sınıf\Nesne_Yönelik_Programlama\ders5\namespace_kullanımları\namespace2\bin\Debug\net5.0\ref\namespace2.dll
+C:\Users\Can\Desktop\Ders\2_Sınıf\Nesne_Yönelik_Programlama\ders5\namespace_kullanımları\namespace2\bin\Debug\net5.0\namespace2.pdb
+C:\Users\Can\Desktop\Ders\2_Sınıf\Nesne_Yönelik_Programlama\ders5\namespace_kullanımları\namespace2\obj\Debug\net5.0\namespace2.dll
+C:\Users\Can\Desktop\Ders\2_Sınıf\Nesne_Yönelik_Programlama\ders5\namespace_kullanımları\namespace2\obj\Debug\net5.0\ref\namespace2.dll
+C:\Users\Can\Desktop\Ders\2_Sınıf\Nesne_Yönelik_Programlama\ders5\namespace_kullanımları\namespace2\obj\Debug\net5.0\namespace2.pdb
+C:\Users\Can\Desktop\Ders\2_Sınıf\Nesne_Yönelik_Programlama\ders5\namespace_kullanımları\namespace2\obj\Debug\net5.0\namespace2.genruntimeconfig.cache
